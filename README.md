@@ -13,7 +13,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/tiagorahal/decode-morse-message/issues).
+Feel free to check the [issues page](https://github.com/tiagorahal/enumerable/issues).
 
 ## Show your support
 
